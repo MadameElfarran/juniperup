@@ -1,5 +1,5 @@
 ### New:
-+ Figura, player model customisation using Blockbench
++ Figura - Enables player model customization using Blockbench
 + Keybind helper menu (on pause menu)
 + 
 
