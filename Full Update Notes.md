@@ -14,3 +14,4 @@
 ## Issues:
 - SKIN SHUFFLE carousel renders in game, but refuses to render in the main menu.
 - PLAYERS appear online in the player list even after leaving the server?
+- Attempted to add 'speech bubbles' but there was a mod conflict; will figure out later
