@@ -6,11 +6,11 @@
 + REMOTE WAYPOINTS - Live In-game World map.
 + Added some relaxing custom menu music  :D
 + Added a KEYBIND HELPER menu (on pause menu).
-+ Added a neat update box that refreshes via web .
++ Added a neat update box that refreshes via web.
 
 ## Fixes:
 + Removed debugify; causes texture loss on custom WoC resource pack models (no idea why)
 
 ## Issues:
 - SKIN SHUFFLE carousel renders in game, but refuses to render in the main menu.
-- PLAYERS appear online in the player list even after leaving the server. Or could be related to vanish?
+- PLAYERS appear online in the player list even after leaving the server?
