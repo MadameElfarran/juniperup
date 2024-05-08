@@ -1,5 +1,5 @@
 ## &6Juniper &6Pack &6Updates!
- &bThree &bMajor &bAdditions &bin &bv1.2!
-+ Player Model Customization
-+ Live in-game world-map
-+ Custom Menu Music
+ &bComing &bin &bVersion &b1.3!
++ ? ? ?
++ Dedicated Calculator Key
++ 'Player' & 'Low-spec' Ver.
