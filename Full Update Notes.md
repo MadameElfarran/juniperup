@@ -6,13 +6,17 @@
 - Gonna try to make speech bubbles work.
 - Last present chat message remains with faded opacity similar to the effects of a burned image on a tv screen.
 
-`1.3`
-## New:
+<br>
+
+## Latest Version
+### New:
 + MINEMATH calculator (press C)
 + replaced NOTES with BACK-BURNER mod
 
-`1.2`
-## New:
+<br>
+
+## 1.2
+### New:
 + FIGURA - Player model customization using Blockbench.
 > Click [here](https://www.youtube.com/watch?v=TKB0q0SmCBo&list=PLNz7v2g2SFA8lOQUDS4z4-gIDLi_dWAhl) for an old but relevant figura tutorial series.
 
@@ -22,5 +26,5 @@
 + KEYBIND HELPER menu (on pause menu).
 + Added a neat update box that refreshes via web.
 
-## Fixes:
+### Fixes:
 + Removed debugify; causes texture loss on custom WoC resource pack models (no idea why)
