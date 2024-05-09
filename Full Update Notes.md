@@ -6,7 +6,7 @@
 - Gonna try to make speech bubbles work.
 - Last present chat message remains with faded opacity similar to the effects of a burned image on a tv screen.
 
-#1.3
+# 1.3
 ## New:
 + MINEMATH calculator (press C)
 + replaced NOTES with BACK-BURNER mod
