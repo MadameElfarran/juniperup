@@ -1,7 +1,4 @@
 ## Issues:
-- SKIN SHUFFLE carousel renders in game, but refuses to render in the main menu.
-  - caused by Figura.
-- REBINDMYKEYS shows conflicts that don't actually conflict.
 - PLAYERS appear online in the player list even after leaving the server?
 - Gonna try to make speech bubbles work.
 - Last present chat message remains with faded opacity similar to the effects of a burned image on a tv screen.
@@ -10,8 +7,10 @@
 
 ## Latest Version
 ### New:
++ Added various QoL & Performance mods
 + MINEMATH calculator (press C)
-+ replaced NOTES with BACK-BURNER mod
++ Replaced NOTES with BACK-BURNER mod
+- Removed FIGURA in favor of SKINSHUFFLE functions
 
 <br>
 
@@ -27,4 +26,5 @@
 + Added a neat update box that refreshes via web.
 
 ### Fixes:
-+ Removed debugify; causes texture loss on custom WoC resource pack models (no idea why)
+- Removed debugify; causes texture loss on custom WoC resource pack models (no idea why)
+- Removed XAEROMINIMAP, REMOTEWAYPOINTS & XAEROPLUS; custom sounds refused to play client-side
