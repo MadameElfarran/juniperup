@@ -1,8 +1,8 @@
 ## Issues:
-- PLAYERS appear online in the player list even after leaving the server?
-- Gonna try to make speech bubbles work.
-- (Vanilla?) Server resource packs can be overidden if changing resource packs in-game; fixed by rejoining
+- I'VE SPOKEN doesn't work due to some mod
+- (Vanilla?) Server resource packs are overidden if player changes resource packs in-game; fixed by rejoining
 - Last present chat message remains with faded opacity similar to the effects of a burned image on a tv screen.
+- Players appear online in the player list even after leaving the server?
 
 <br>
 
