@@ -1,6 +1,7 @@
 ## Issues:
 - PLAYERS appear online in the player list even after leaving the server?
 - Gonna try to make speech bubbles work.
+- (Vanilla?) Server resource packs can be overidden if changing resource packs in-game; fixed by rejoining
 - Last present chat message remains with faded opacity similar to the effects of a burned image on a tv screen.
 
 <br>
@@ -8,8 +9,8 @@
 ## Latest Version
 ### New:
 + Added various QoL & Performance mods
-+ MINEMATH calculator (press C)
 + Replaced NOTES with BACK-BURNER mod
++ QUICKMENU, a dedicated GUI for macro commands / keys
 - Removed FIGURA in favor of SKINSHUFFLE functions
 
 <br>
@@ -28,3 +29,4 @@
 ### Fixes:
 - Removed debugify; causes texture loss on custom WoC resource pack models (no idea why)
 - Removed XAEROMINIMAP, REMOTEWAYPOINTS & XAEROPLUS; custom sounds refused to play client-side
+- Removed custom menu music
