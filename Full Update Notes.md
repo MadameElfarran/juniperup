@@ -6,7 +6,7 @@
 
 <br>
 
-## Latest Version
+## Latest: 1.3
 ### New:
 + Added various QoL & Performance mods
 + Replaced NOTES with BACK-BURNER mod
