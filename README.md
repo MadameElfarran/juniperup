@@ -2,4 +2,4 @@
  &bNew &bin &bVersion &b1.3!
 + Infographic for some mod tools
 + Quick-menu for macros
-+ Calculator :I
++ Client-side Emotes! For testing
