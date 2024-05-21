@@ -9,6 +9,7 @@
 ## Latest: 1.3
 ### New:
 + Added various QoL & Performance mods
++ Created a brief infographic in the KEY page explaining some mods
 + Replaced NOTES with BACK-BURNER mod
 + QUICKMENU, a dedicated GUI for macro commands / keys
 - Removed FIGURA in favor of SKINSHUFFLE functions
@@ -28,5 +29,5 @@
 
 ### Fixes:
 - Removed debugify; causes texture loss on custom WoC resource pack models (no idea why)
-- Removed XAEROMINIMAP, REMOTEWAYPOINTS & XAEROPLUS; custom sounds refused to play client-side
+- Removed XAEROMINIMAP, REMOTEWAYPOINTS & XAEROPLUS; custom server items refused to play sounds client-side
 - Removed custom menu music
